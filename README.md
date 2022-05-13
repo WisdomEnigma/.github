@@ -1,5 +1,5 @@
 # .github
-WisdcomEnigma provide business solutions that we faced during production.
+WisdcomEnigma provide solutions that will helpful for others and increase productivity.
 
 
    # SocialLinks
