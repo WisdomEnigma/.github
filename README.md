@@ -1,15 +1,17 @@
 # .github
-WisdcomEnigma provide solutions that will helpful for others and increase productivity.
+
+WisdomEnigma.com design cloud based application paticularly finanice & Blockchain.
+
+👁️ github.com/WisdomEnigma
+🔮 Change the future
+🔗 r/wisdomenigma
+🔗 fb/WisdomEnigma,Inc 
+💱 Invest or start sponsorship
 
 
-   # SocialLinks
-    
-      https://www.reddit.com/r/wisdomenigma/
-      
+  Support us through bitaddress 🪙
+  
+     🦅 bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc
    
    
-   # Transaction Account
-    
-     Currently Ethereum wallet address avaiable for our customers and other stake holders
-    
-    ♦️   0x9d52b2fb5e599692f2Ed411A4c98c9243830f23e
+   
