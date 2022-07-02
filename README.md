@@ -1,6 +1,6 @@
 # .github
 
-WisdomEnigma.com design cloud based application paticularly finanice & Blockchain.
+       WisdomEnigma motto is "Thinking Thinkitself"
 
 👁️ github.com/WisdomEnigma
 🔮 Change the future
